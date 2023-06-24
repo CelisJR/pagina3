@@ -1,0 +1,46 @@
+.container-absolute{
+    font-family: Arial, Helvetica, sans-serif;
+    }
+body{
+    background-color: white !important;
+}
+.table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: black !important;
+}
+.btn-primary{
+    background-color: rgb(204, 203, 203) !important;
+    border-color: black !important;
+    color: black !important;
+}
+.btn-r{
+    background-color: aqua !important;
+    border-color:black !important;
+    color: black !important;
+}
+form{
+    font-weight: bold !important;
+}
+p1{
+    font-weight: bold !important;
+}
+.max{
+    position: relative;
+    top: 50px;
+}
+.rec{
+    position:relative;
+    right: 60px;
+    top: -30px;
+}
+p{
+    font-size: x-large;
+}
+h1{
+    font-weight: bold !important;
+}
+.transferir{
+    position: relative;
+    top: 350px;
+    margin-right: 600px;
+}
