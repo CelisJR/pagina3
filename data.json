@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "id": "aB2cD3",
+            "monto": 567821,
+            "email": "abcdefg@example.com",
+            "comentario": "celular"
+        },
+        {
+            "id": "XyZ456",
+            "monto": 234587,
+            "email": "hijklmn@example.com",
+            "comentario": "deuda"
+        },
+        {
+            "id": "PqRs78",
+            "monto": 876543,
+            "email": "opqrstuv@example.com",
+            "comentario": "otros"
+        },
+        {
+            "id": "dEfGh9",
+            "monto": 123456,
+            "email": "wxyzabcd@example.com",
+            "comentario": "pago"
+        },
+        {
+            "id": "iJkLm1",
+            "monto": 987654,
+            "email": "efghijkl@example.com",
+            "comentario": "deuda"
+        },
+        {
+            "id": "Nopqrs",
+            "monto": 345678,
+            "email": "mnopqrs@example.com",
+            "comentario": "celular"
+        }
+    ]
+}
